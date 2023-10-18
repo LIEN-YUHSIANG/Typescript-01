@@ -1,2 +1,2 @@
 # Typescript-01
-Personal typescript repo
+Personal typescript learning repo
